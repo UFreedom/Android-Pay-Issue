@@ -5,11 +5,15 @@
 
 ## Alipay 接入
 
+- [支付接入官方文档](https://docs.open.alipay.com/204/105296/)
+
+
 
 
 
 
 ## WeChat Pay 接入
+- [支付接入官方文档](https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=8_1#)
 
 
 
