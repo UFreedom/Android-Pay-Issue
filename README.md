@@ -21,4 +21,5 @@
 ## Google Pay 接入
 
 - [Google Billing Library 接入官方文档](https://developer.android.com/google/play/billing/billing_library_overview#java)
-- [Google 内购商品与 Google Billing Library] (http://ufreedom.me/android/2018/08/22/google_pay.html)
+
+- [Google 内购商品与 Google Billing Library](http://ufreedom.me/android/2018/08/22/google_pay.html)
