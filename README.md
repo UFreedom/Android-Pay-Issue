@@ -17,6 +17,10 @@
 
 
 
+**** Issue
+- [微信支付收不到支付后的回调 ](https://github.com/UFreedom/Android-Pay-Issue/issues/2)
+
+
 
 ## Google Pay 接入
 
